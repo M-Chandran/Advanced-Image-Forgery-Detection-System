@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Models (large binary files)
+*.pth
+*.h5
+*.pkl
+*.model
+
+# Uploads (user uploaded files)
+static/uploads/*
+!static/uploads/.gitkeep
+
+# Dataset (large files)
+dataset/*
+!dataset/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

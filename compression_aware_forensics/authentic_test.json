@@ -1,0 +1,10 @@
+{
+  "compression_type": "Original",
+  "forgery_result": "Authentic",
+  "accuracy": 0.95,
+  "precision": 0.92,
+  "recall": 0.88,
+  "f1_score": 0.90,
+  "psnr": 35.5,
+  "ssim": 0.85
+}
